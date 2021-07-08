@@ -1,7 +1,7 @@
 {
 "redirect" : {
 
-"HOMEURL" : "file:///android_asset/music/index.html",
+"HOMEURL" : "file:///android_asset/html/index.html",
  
  // testing server json yang dipakai
 "Json_popup_Wait" : "Server Ready . . . v19j13",
