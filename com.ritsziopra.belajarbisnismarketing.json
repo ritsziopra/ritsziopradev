@@ -1,7 +1,7 @@
 {
 "redirect" : {
 
-"HOMEURL" : "https://kabinetdeveloperexample.blogspot.com/2020/12/optimasi-blogger.html",
+"HOMEURL" : "file:///android_asset/music/index.html",
  
  // testing server json yang dipakai
 "Json_popup_Wait" : "Server Ready . . . v19j13",
@@ -22,7 +22,7 @@
 "PENGATURAN_IKLAN_inter" : "ADMOB",
 "PENGATURAN_IKLAN_native" : "FAN",
 
-"INTER_COUNT" : 4,
+"INTER_COUNT" : 8,
 
 "enable_strap" : true,
 "enable_strap_SplahScreen" : false,
@@ -72,7 +72,7 @@
 "enable_Share_button" : true,
 "Share_TXT" : "Supperr APPS Download Now",
 "More_Button" : "Share Via WhatsApp",
-"Url_More_Apps" : "https:// jika share button TRUE maka tombol MORE berubah SHARE"
+"Url_More_Apps" : "https://play.google.com/store/apps/details?id=com.ritsziopra.belajarbisnismarketing"
 
   }
 }
